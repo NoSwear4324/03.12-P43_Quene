@@ -1,5 +1,3 @@
-#ifndef P43_QUEUE_MYPRIORITYQUEUE_H
-#define P43_QUEUE_MYPRIORITYQUEUE_H
 #include "MyQueue.h"
 
 namespace myQueue {
@@ -41,4 +39,3 @@ namespace myQueue {
     };
 
 }
-#endif //P43_QUEUE_MYPRIORITYQUEUE_H
